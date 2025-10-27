@@ -1,0 +1,7 @@
+{
+  "name": "Bepār Marketplace",
+  "description": "A verified-identity P2P marketplace combining identity lookup, user profiles, item trading, map integration, an escrow eWallet, and a chat system.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
